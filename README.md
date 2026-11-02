@@ -45,10 +45,8 @@
 
 ### 📈 GitHub Profile Stats
 
-### 📈 GitHub Profile Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulzptrzz&theme=nord_dark&utcOffset=7" alt="Productive Time Graph" width="100%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=nord_dark" alt="3D Profile Summary" width="90%" />
+</p> 
 
 **If you like this readme file, please give me star! ❤️**
