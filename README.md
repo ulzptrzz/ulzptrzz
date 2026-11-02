@@ -46,7 +46,7 @@
 ### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=nord_dark" alt="3D Profile Summary" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulzptrzz&show_icons=true&theme=nord&hide_border=true&hide=stars,issues,prs" alt="GitHub Stats" width="80%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
