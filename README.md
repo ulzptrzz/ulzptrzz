@@ -45,8 +45,10 @@
 
 ### 📈 GitHub Profile Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulzptrzz&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Contributions-215-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Public%20Repos-9-0288D1?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Primary%20Language-PHP%20%2F%20JavaScript-0097A7?style=for-the-badge&logo=php&logoColor=white" alt="Language" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
