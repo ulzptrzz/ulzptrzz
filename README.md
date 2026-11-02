@@ -45,9 +45,10 @@
 
 ### 📈 GitHub Profile Stats
 
+### 📈 GitHub Profile Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-month?username=ulzptrzz&theme=nord_dark" alt="Commit Month Graph" width="49%" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulzptrzz&theme=nord_dark" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ulzptrzz&theme=nord_dark&utcOffset=7" alt="Productive Time Graph" width="100%" />
 </p>
+
 **If you like this readme file, please give me star! ❤️**
