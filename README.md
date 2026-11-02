@@ -45,9 +45,8 @@
 
 ### 📈 GitHub Profile Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulzptrzz&theme=calmer&hide_border=true&background=00000000" alt="GitHub Streak Stats" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulzptrzz&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="80%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
