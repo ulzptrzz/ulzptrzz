@@ -16,10 +16,9 @@
 - 🏛 Currently an **Informatics student at Kalbis University**.
 - 🏫 Vocational High School Graduate from **SMKN 1 Kota Bekasi** (Major: *Software & Game Development*).
 - 🌱 Currently expanding my skills in **Web Development, Game Tech, and English**. 
-- 🎨 My hobbies are **drawing and running**.
+- 🎨 My hobbies are **drawing and singing**.
 - 📫 Reach me at: **auliap426@gmail.com**
 - 💬 Feel free to ask me anything or collaborate!
-
 
 
 
@@ -28,8 +27,6 @@
 <a href="https://instagram.com/ulz_ptrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulz_ptrz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -46,13 +43,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-📊 **My recent programming status:**
-<!--START_SECTION:waka-->
+### 📈 GitHub Stats
 
-```txt
-No activity tracked
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ulzptrzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulzptrzz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
-<!--END_SECTION:waka-->
 
 **If you like this readme file, please give me star! ❤️**
