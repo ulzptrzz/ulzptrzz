@@ -46,8 +46,7 @@
 ### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=solarized_dark" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulzptrzz&theme=solarized_dark" alt="Most Used Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=nord_dark" alt="3D Profile Summary" width="100%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
