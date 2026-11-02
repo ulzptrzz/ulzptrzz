@@ -45,10 +45,10 @@
 
 ### 📈 GitHub Profile Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Contributions-215-1E88E5?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Public%20Repos-9-0288D1?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-  <img src="https://img.shields.io/badge/Primary%20Language-PHP%20%2F%20JavaScript-0097A7?style=for-the-badge&logo=php&logoColor=white" alt="Language" />
+### 🌃 3D Contribution City
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=nord_dark" alt="3D Profile Summary" width="100%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
