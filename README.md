@@ -45,10 +45,9 @@
 
 ### 📈 GitHub Profile Stats
 
-### 🌃 3D Contribution City
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=nord_dark" alt="3D Profile Summary" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulzptrzz&theme=calmer&hide_border=true&background=00000000" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
