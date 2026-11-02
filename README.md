@@ -46,7 +46,7 @@
 ### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulzptrzz&theme=react-dark&bg_color=0D1117&title_color=38BDF8&line_color=38BDF8&point_color=60A5FA" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ulzptrzz&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="100%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
