@@ -43,11 +43,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<### 📈 GitHub Profile Stats
+### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulzptrzz&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulzptrzz&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulzptrzz&theme=react-dark&bg_color=0D1117&title_color=38BDF8&line_color=38BDF8&point_color=60A5FA" alt="Activity Graph" width="100%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
