@@ -46,7 +46,7 @@
 ### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ulzptrzz&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="80%" />
+  <img src="https://raw.githubusercontent.com/ulzptrzz/ulzptrzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
