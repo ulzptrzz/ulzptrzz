@@ -46,7 +46,8 @@
 ### 📈 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ulzptrzz/ulzptrzz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ulzptrzz&theme=solarized_dark" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ulzptrzz&theme=solarized_dark" alt="Most Used Languages" width="49%" />
 </p>
 
 **If you like this readme file, please give me star! ❤️**
